@@ -1,7 +1,7 @@
 const mongoose = require('mongoose');
 
 const connection = async()=>{
-  const URL = `mongodb://0.0.0.0:27017/Stores`;
+  const URL = `mongodb+srv://shubhangijadhav521:shubh@18@cluster0.nmqcjuf.mongodb.net/`;
   try{
       await mongoose.connect(URL);
       console.log('database connected');
