@@ -1,0 +1,148 @@
+[
+    {
+        "storeName": "ADLER",
+        "logo": "https://ik.imagekit.io/gdc/Couponwink/adler.svg?updatedAt=1700635578121",
+        "offers": [
+            {
+                "offerTitle": "Get 50% of Wool & Cashmera",
+                "description": "ADLER Germany Coupons And Deals",
+                "couponCode": "ADL123"
+            },
+            {
+                "offerTitle": "Save 30% Off On Ciso",
+                "description": "ADLER Germany Coupons And Deals",
+                "couponCode": "ADL456"
+            },
+            {
+                "offerTitle": "Avail 30% Off On Esprit",
+                "description": "ADLER Germany Coupons And Deals",
+                "couponCode": "ADL4789"
+            }
+        ]
+    },
+    {
+        "storeName": "ATHELETA",
+        "logo": "https://ik.imagekit.io/gdc/Couponwink/Brand%20Logos-06.svg?updatedAt=1695722760979",
+        "offers": [
+            {
+                "offerTitle": "20% Off your $150 Purchase",
+                "description": "Athleta Coupons And Deals",
+                "couponCode": "ATHE123"
+            },
+            {
+                "offerTitle": "10% Off Sitewide Students Discount",
+                "description": "Athleta Coupons And Deals",
+                "couponCode": "ATHE456"
+            },
+            {
+                "offerTitle": "20% Off Single Regular Priced Item",
+                "description": "Athleta Coupons And Deals",
+                "couponCode": "ATHE789"
+            }
+        ]
+    },
+    {
+        "storeName": "IKEA",
+        "logo": "https://ik.imagekit.io/1iw3webet/ikea.svg?updatedAt=1701066250970",
+        "offers": [
+            {
+                "offerTitle": "Save 50% Off using Coupon Code",
+                "description": "IKEA Coupons And Deals",
+                "couponCode": "IKE123"
+            },
+            {
+                "offerTitle": "10% Off Sitewide Students Discount",
+                "description": "IKEA Coupons And Deals",
+                "couponCode": "IKE456"
+            },
+            {
+                "offerTitle": "Save 15% Off With Coupon Code",
+                "description": "IKEA Coupons And Deals",
+                "couponCode": "IKE789"
+            }
+        ]
+    },
+    {
+        "storeName": "Freshly",
+        "logo": "https://ik.imagekit.io/1iw3webet/Brand%20Logos-08.svg?updatedAt=1700906522187",
+        "offers": [
+            {
+                "offerTitle": "Save 50% Off using Coupon Code",
+                "description": "Freshly Coupons And Deals",
+                "couponCode": "FRE123"
+            },
+            {
+                "offerTitle": "10% Off Sitewide Students Discount",
+                "description": "Freshly Coupons And Deals",
+                "couponCode": "FREE456"
+            }
+           
+        ]
+    },{
+        "storeName": "Etsy",
+        "logo": "https://ik.imagekit.io/gdc/Couponwink/ETSY.svg?updatedAt=1698228066718",
+        "offers": [
+            {
+                "offerTitle": "Save 50% Off using Coupon Code",
+                "description": "Etsy Coupons And Deals",
+                "couponCode": "Ets123"
+            },
+            {
+                "offerTitle": "10% Off Sitewide Students Discount",
+                "description": "Etsy Coupons And Deals",
+                "couponCode": "Ets456"
+            }
+           
+        ]
+    },
+    {
+        "storeName": "Hotwire",
+        "logo": "https://ik.imagekit.io/gdc/Couponwink/hotwire.svg?updatedAt=1698227483513",
+        "offers": [
+            {
+                "offerTitle": "Save 50% Off using Coupon Code",
+                "description": "Hotwire Coupons And Deals",
+                "couponCode": "Hot123"
+            }
+           
+        ]
+    },
+    {
+        "storeName": "ALDO",
+        "logo": "https://ik.imagekit.io/gdc/Couponwink/aldo.svg?updatedAt=1698047118327",
+        "offers": [
+            {
+                "offerTitle": "Save 50% Off using Coupon Code",
+                "description": "ALDO Coupons And Deals",
+                "couponCode": "ALD123"
+            }
+           
+        ]
+    },
+    {
+        "storeName": "AJIO",
+        "logo": "https://ik.imagekit.io/gdc/Couponwink/ajio.svg?updatedAt=1698044784429",
+        "offers": [
+            {
+                "offerTitle": "Save 50% Off using Coupon Code",
+                "description": "Ajio Coupons And Deals",
+                "couponCode": "AJO123"
+            },
+            {
+                "offerTitle": "Save 30% Off using Coupon Code",
+                "description": "Ajio Coupons And Deals",
+                "couponCode": "AJO456"
+            },
+            {
+                "offerTitle": "Save 10% Off using Coupon Code",
+                "description": "Ajio Coupons And Deals",
+                "couponCode": "AJO789"
+            },{
+                "offerTitle": "Save 80% Off using Coupon Code",
+                "description": "Ajio Coupons And Deals",
+                "couponCode": "AJO111"
+            }
+           
+        ]
+    }
+]
